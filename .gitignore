@@ -58,3 +58,6 @@ out/
 # Temporary files
 tmp/
 temp/
+
+# Expo
+.expo/
